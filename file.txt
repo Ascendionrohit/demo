@@ -1,1 +1,2 @@
 Master Branch
+Conflicting changes in master
