@@ -1,2 +1,6 @@
 Master Branch
+<<<<<<< HEAD
 Conflicting changes in master
+=======
+Rohit Branch
+>>>>>>> Rohit
